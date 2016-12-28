@@ -81,6 +81,6 @@ class __TwigTemplate_25c43fe593562687e3481759c2c90a8b89d93384de665e09904ee3e9019
 </body>
 <script type=\"text/javascript\">
 </script>
-</html> ", "layout.html", "D:\\phpStudy\\WWW\\web\\MVC\\App\\Views\\layout.html");
+</html> ", "layout.html", "D:\\phpStudy\\WWW\\web\\mvc\\App\\Views\\layout.html");
     }
 }

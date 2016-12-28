@@ -10,6 +10,7 @@ define('APP',ROOT.'/App');
 define('CORE',ROOT.'/Core');
 define('DEBUG',TRUE);
 
+
 include 'vendor/autoload.php';
 if (DEBUG)
 {
@@ -30,5 +31,6 @@ include CORE.'/Common/function.php';
 include CORE.'/System.php';
 spl_autoload_register('\Core\System::load');
 \Core\System::run();
+
 
 ?>

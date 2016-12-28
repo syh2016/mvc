@@ -61,6 +61,6 @@ class __TwigTemplate_07dba4a2e519cf587317f15b963e03bd7dbee545fef66c6f95ef0986d98
         return new Twig_Source("{% extends \"layout.html\" %}
 {% block content %}
 {{data}}
-{% endblock %}", "index.html", "D:\\phpStudy\\WWW\\web\\MVC\\App\\Views\\index.html");
+{% endblock %}", "index.html", "D:\\phpStudy\\WWW\\web\\mvc\\App\\Views\\index.html");
     }
 }

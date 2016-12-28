@@ -4,7 +4,7 @@ use Core\Lib\Model;
 /**
 * 控制器
 */
-class Index  extends \Core\System
+class Index  extends \Core\Lib\Controller
 {
 	public function index()
 	{
